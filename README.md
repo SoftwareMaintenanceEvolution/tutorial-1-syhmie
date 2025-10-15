@@ -12,7 +12,6 @@
 ## 🧠 About Me
 
 I'm a motivated and detail-oriented Computer Science (Software Engineering) student who enjoys creating impactful software solutions.  
-Currently, I'm seeking an **internship opportunity (24 weeks)** starting **July–August 2024**, where I can apply my technical skills, learn from real-world challenges, and contribute to meaningful projects.
 
 ---
 
@@ -79,20 +78,6 @@ Web Development · Mobile App Development · Database Design · Git · Microsoft
 
 ---
 
-## 🎓 Education
-
-**University of Malaya (2023–Present)**  
-Bachelor of Computer Science (Software Engineering)  
-📊 *Current CGPA: 3.54*
-
-**University of Malaya (2021–2022)**  
-Foundation in Physical Sciences  
-📈 *CGPA: 3.68*
-
-**Sekolah Menengah Agama Persekutuan Bentong (2020)**  
-SPM: 7A+ 4A 1A-
-
----
 
 ## 🌐 Connect with Me
 
